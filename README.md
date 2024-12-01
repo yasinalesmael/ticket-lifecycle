@@ -34,11 +34,11 @@ Go to http://localhost/osTicket and open a new ticket. Let's create a ticket abo
 <br />
 
 <p>
-<img src="https://github.com/user-attachments/assets/61ae6ef0-e982-4ba3-8588-da6b03129add" height="80%" width="80%" alt="user portal"/>
+<img src="https://i.imgur.com/9dAEYSg.png" height="80%" width="80%" alt="user portal"/>
 </p>
 <p>
 
-<img src="https://github.com/user-attachments/assets/eed67ceb-8e24-4e0a-bd92-a33c2b2c65f5" height="80%" width="80%" alt="ticket 1 created"/>
+<img src="https://i.imgur.com/SFILH0y.png" height="80%" width="80%" alt="ticket 1 created"/>
 </p>
 <p>
  We will try and access this ticket with the John Doe user we created in the Post-Installation project https://github.com/jttn90/post-install-config. Looks like we can assign this ticket to others can set the SLA.
@@ -47,7 +47,7 @@ to assign this to the Online Banking team. Then Jane from the Online Banking tea
 </p>
 <br />
 <p>
-<img src="https://github.com/user-attachments/assets/a7402634-c5b3-4934-8735-26a3fcf6da48" height="80%" width="80%" alt="john accessing ticket"/>
+<img src="https://i.imgur.com/EmZtE25.png" height="80%" width="80%" alt="john accessing ticket"/>
 <img src="https://i.imgur.com/sKLV7cd.png" height="80%" width="80%" alt="jane closing ticket"/>
 </p>
 
@@ -57,7 +57,7 @@ few users are affected. We also don't know if the update is due to a faulty patc
 set the SLA to Sev-C as it has minor impact on the business as a whole and can respond to the user to try restarting the computers and see if it works. If this actions resolves the problem, we can then close the ticket.
 
 </p>
-<img src="https://github.com/user-attachments/assets/30d6e70b-fb5c-4dab-acbb-c69bcb2c0950" height="80%" width="80%" alt="closed 2nd ticket"/>
+<img src="https://i.imgur.com/P40520h.png" height="80%" width="80%" alt="closed 2nd ticket"/>
 <br />
 
 <p>
@@ -68,7 +68,7 @@ Now for one final example, let's say the CFO of a company is unable to turn on h
 <br />
 
 <p>
-<img src="https://github.com/user-attachments/assets/200479b3-9c71-4b46-a0b9-e102b7be4522" height="80%" width"80%" alt="closed 3rd ticket"/>
+<img src="https://i.imgur.com/qeaz3s2.png" height="80%" width"80%" alt="closed 3rd ticket"/>
 </p>
 <br />
 <p>
